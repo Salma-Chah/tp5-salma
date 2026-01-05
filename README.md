@@ -122,5 +122,5 @@ Stack navigation works correctly
 Logout returns to Login screen
 
 Author
-Student Name: Haddouali Yassine
+Student Name: CHAH SALMA
 TP: React Native – Drawer & Context
